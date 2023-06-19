@@ -4,7 +4,7 @@ This Repository contains the following files:
 
 - requirements.txt: contains the libraries needed for this work
 - DataUtils.py: classes and functions that help with preprocessing orderbook data
-- OrichalAssignment.ipynb: The Notebook where orderbook analysis is done
+- OrderbookAnalysis.ipynb: The Notebook where orderbook analysis is done
 
 The main goal here is to analyze cryptocurrency orderbook data, the impact of price and volume to identify key insights into market dynamics. We do this using Python, and our analytics process is laid out as follows:
 
